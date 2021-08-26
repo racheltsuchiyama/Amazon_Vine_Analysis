@@ -7,7 +7,7 @@ The purpose of this project was to analyze the effect of paying for reviews on a
 
 * **Vine and non-Vine reviews**
 
-There were 170 reviews from the vine program and 37,840 non-Vine reviews. The separated Vine and non-Vine data tables are displayed below.
+There were 170 reviews from the vine program and 37,840 non-Vine reviews. The separated non-Vine and Vine data tables are displayed below.
 
 <img width="586" alt="Screen Shot 2021-08-25 at 8 14 51 PM" src="https://user-images.githubusercontent.com/83552696/130895019-582f675f-d816-48aa-b50e-03c1f42e1562.png">
 
