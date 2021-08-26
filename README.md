@@ -7,7 +7,12 @@ The purpose of this project was to analyze the effect of paying for reviews on a
 
 * **Vine and non-Vine reviews**
 
-There were 170 reviews from the vine program and 37,840 non-Vine reviews.
+There were 170 reviews from the vine program and 37,840 non-Vine reviews. The separated Vine and non-Vine data tables are displayed below.
+
+<img width="586" alt="Screen Shot 2021-08-25 at 8 14 51 PM" src="https://user-images.githubusercontent.com/83552696/130895019-582f675f-d816-48aa-b50e-03c1f42e1562.png">
+
+<img width="563" alt="Screen Shot 2021-08-25 at 8 14 42 PM" src="https://user-images.githubusercontent.com/83552696/130895028-8ba533a0-526c-4779-8c83-3c844e4365bb.png">
+
 
 * **5 stars Vine reviews**
 
@@ -19,9 +24,5 @@ There were 170 reviews from the vine program and 37,840 non-Vine reviews.
 
 ## Summary
 
-There was a larger percent of non-Vine 5 star reviews compared to Vine 5 star reviews. 38.2% of the Vine reviews were 5 stars, while 54.4 p Therefore, there is no positivity bias for 5 star reviews in the Vine program. However, it would be helpful to also compare the 4 star reviews from Vine and non_Vine reviewers. Both 4 and 5 stars are considered positive, while 1 or 2 star reviews are negative. Therefore, a more comprehensive analysis would also contain the percent of 4 star Vine and non_Vine reviews. 
+There was a larger percent of non-Vine 5 star reviews compared to Vine 5 star reviews. 38.2% of the Vine reviews were 5 stars, while 54.4% of the non-Vine reviews were 5 stars. Therefore, there is no positivity bias for 5 star reviews in the Vine program. However, it would be helpful to also compare the 4 star reviews from Vine and non_Vine reviewers. Both 4 and 5 stars are considered positive, while 1 or 2 star reviews are negative. Therefore, a more comprehensive analysis would also contain the percent of 4 star Vine and non_Vine reviews. 
 
-state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
-
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement
